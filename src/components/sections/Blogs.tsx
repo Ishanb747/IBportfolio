@@ -3,12 +3,17 @@
 import { motion } from "framer-motion";
 import resumeData from "@/data/resume.json";
 
+interface Blog {
+    year: string;
+    title: string;
+}
+
 interface BlogsProps {
-    onSelect?: (blog: any) => void;
+    onSelect?: (blog: Blog) => void;
 }
 
 const Blogs = ({ onSelect }: BlogsProps) => {
-    const blogs = resumeData.blogs;
+    const blogs = resumeData.blogs as Blog[];
     return (
         <section id="blogs" className="scroll-mt-16 md:scroll-mt-24 lg:scroll-mt-36">
             <div className="glass-header sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur-md md:-mx-12 md:px-12 lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-4 lg:bg-transparent lg:backdrop-blur-none">
