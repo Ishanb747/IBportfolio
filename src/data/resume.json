@@ -1,0 +1,134 @@
+{
+    "personal": {
+        "name": "Ishan Bhattacharya",
+        "role": "Aspiring Software Engineer",
+        "tagline": "Aspiring Software Engineer with hands-on experience in AI, web development, and robotics.",
+        "about": [
+            "Aspiring Software Engineer with hands-on experience in AI, web development, and robotics. Participated in 5+ hackathons and coding contests.",
+            "Skilled in Python, JavaScript, Next.js, React, ML/AI pipelines, and robotics projects."
+        ]
+    },
+    "socials": [
+        {
+            "name": "GitHub",
+            "href": "https://github.com/Ishanb747",
+            "platform": "github"
+        },
+        {
+            "name": "LinkedIn",
+            "href": "https://linkedin.com/in/ishanb747",
+            "platform": "linkedin"
+        },
+        {
+            "name": "Email",
+            "href": "mailto:Ishanb747@gmail.com",
+            "platform": "mail"
+        }
+    ],
+    "experience": [
+        {
+            "period": "June 2025 – August 2025",
+            "role": "Tech Intern",
+            "company": "IndiGo Airlines",
+            "description": "Applied ML algorithms including SVM, KNN, Regression, Time Series, and Apriori. Improved operational forecast accuracy by 15-20%. Built a natural language interface to map user queries to APIs using embeddings and LLMs. Designed a data dictionary-driven LLM pipeline converting natural language queries to SQL.",
+            "tech": [
+                "Python",
+                "Machine Learning",
+                "LLMs",
+                "SQL",
+                "Swagger",
+                "Embeddings"
+            ],
+            "link": "#"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Krsna - Productivity App",
+            "description": "A feature-rich productivity app with To-Do list, Focus Timer, Habit Tracker, and AI Agent.",
+            "fullDescription": "Built a feature-rich productivity app including To-Do list, Focus Timer, Habit Tracker, Journal, and AI Agent for conversational accountability. Developed an AI Agent capable of visualizing user data, guiding task management, setting up journals, and interacting about todos and goals. Designed multiple light, dark, and divine-inspired themes with sound effects. Currently has 10 concurrent users.",
+            "link": "#",
+            "github": "https://github.com/Ishanb747",
+            "tech": [
+                "Next.js",
+                "Firebase",
+                "Framer Motion"
+            ],
+            "images": []
+        },
+        {
+            "title": "KnowYourGroup",
+            "description": "AI-powered group chat personality analyzer for WhatsApp, Telegram, and Discord.",
+            "fullDescription": "Built an AI-powered group chat personality analyzer for WhatsApp, Telegram, and Discord, processing 50k+ messages per analysis. Implemented privacy-first client-side parsing and a two-phase LLM pipeline for analyzing group chat data.",
+            "link": "#",
+            "github": "https://github.com/Ishanb747",
+            "tech": [
+                "React",
+                "Groq LLaMA 3.3",
+                "Vercel Serverless"
+            ],
+            "images": []
+        }
+    ],
+    "skills": {
+        "languages": [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "C/C++"
+        ],
+        "web": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "Express.js",
+            "HTML",
+            "CSS"
+        ],
+        "databases": [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Convex"
+        ],
+        "ai_ml": [
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "OpenCV",
+            "YOLO",
+            "MediaPipe",
+            "Hugging Face",
+            "BERT",
+            "Word2Vec"
+        ],
+        "genai": [
+            "LangChain",
+            "LangGraph",
+            "CrewAI",
+            "OpenAI APIs",
+            "Embeddings",
+            "RAG Pipelines"
+        ],
+        "robotics_iot": [
+            "ROS",
+            "Gazebo",
+            "Arduino",
+            "Raspberry Pi"
+        ],
+        "tools": [
+            "Git",
+            "Docker",
+            "GitHub Actions",
+            "VS Code",
+            "Swagger"
+        ]
+    },
+    "achievements": [
+        "E-Yantra Robotics Competition (IIT Bombay, 2025): Advanced to Stage 2 out of 200+ teams. Developed FPGA-based robotic prototype.",
+        "Osto Corporate Hackathon (2025) Runner-up: Ranked 2nd among 100+ teams for an AI-integrated automation solution.",
+        "Line Follower Competition, DTU (2024) 3rd Place: Engineered IR sensor-based autonomous robot for precision navigation.",
+        "ATOM Robotics Lab: Contributed to 5+ robotics and IoT projects integrating ROS, Gazebo, and computer vision."
+    ],
+    "blogs": []
+}
